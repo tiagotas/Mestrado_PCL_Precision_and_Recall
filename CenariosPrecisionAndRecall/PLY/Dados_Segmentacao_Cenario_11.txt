@@ -1,0 +1,8 @@
+Dados Segmentacao Cenario 11
+
+Precision: 0.853215
+Recall: 0.968582
+True Positive Rate: 0.968582
+True Negative Rate: 0.680265
+Accuracy: 0.869803
+F measure: 0.907246

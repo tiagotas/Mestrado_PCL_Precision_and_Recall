@@ -1,0 +1,26 @@
+            Dados Precision and Recall do Cenario 34
+
+    Precision and Recall para as areas de anidrose: 
+
+   - Precision: 0.887806
+   - Recall: 0.900714
+   - True Positive Rate: 0.900714
+   - True Negative Rate: 0.672169
+   - Accuracy: 0.841812
+   - F measure: 0.894213
+
+   - Areas Hidroticas: 66%
+   - Areas Anidrose e Hipoidroticas: 34%
+
+
+    Precision and Recall para as areas de anidrose e hipoidroticas: 
+
+   - Precision: 0.77784
+   - Recall: 0.888903
+   - True Positive Rate: 0.888903
+   - True Negative Rate: 0.509413
+   - Accuracy: 0.759488
+   - F measure: 0.829671
+
+   - Areas Hidroticas: 58%
+   - Areas Anidrose e Hipoidroticas: 42%

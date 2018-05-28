@@ -1,0 +1,8 @@
+Dados Segmentacao Cenario 22
+
+Precision: 0.766645
+Recall: 0.948005
+True Positive Rate: 0.948005
+True Negative Rate: 0.442404
+Accuracy: 0.775583
+F measure: 0.847734

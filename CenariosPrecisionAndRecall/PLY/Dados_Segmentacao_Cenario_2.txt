@@ -1,0 +1,8 @@
+Dados Segmentacao Cenario 2
+
+Precision: 1
+Recall: 1
+True Positive Rate: 1
+True Negative Rate: 1
+Accuracy: 1
+F measure: 1

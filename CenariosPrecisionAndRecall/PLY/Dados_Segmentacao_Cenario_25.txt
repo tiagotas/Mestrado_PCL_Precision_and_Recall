@@ -1,0 +1,8 @@
+Dados Segmentacao Cenario 25
+
+Precision: 0.734755
+Recall: 0.927262
+True Positive Rate: 0.927262
+True Negative Rate: 0.353163
+Accuracy: 0.731481
+F measure: 0.81986
