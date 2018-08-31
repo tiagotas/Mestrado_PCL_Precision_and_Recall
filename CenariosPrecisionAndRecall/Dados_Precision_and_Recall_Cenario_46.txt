@@ -2,25 +2,25 @@
 
     Precision and Recall para as areas de anidrose: 
 
-   - Precision: 0.867565
-   - Recall: 0.961261
-   - True Positive Rate: 0.961261
-   - True Negative Rate: 0.577376
-   - Accuracy: 0.862325
-   - F measure: 0.912013
+   - Precision: 0.91398
+   - Recall: 0.974373
+   - True Positive Rate: 0.974373
+   - True Negative Rate: 0.73588
+   - Accuracy: 0.912907
+   - F measure: 0.94321
 
-   - Areas Hidroticas: 71%
-   - Areas Anidrose e Hipoidroticas: 29%
+   - Areas Hidroticas: 72%
+   - Areas Anidrose e Hipoidroticas: 28%
 
 
     Precision and Recall para as areas de anidrose e hipoidroticas: 
 
-   - Precision: 0.766664
-   - Recall: 0.956841
-   - True Positive Rate: 0.956841
-   - True Negative Rate: 0.437266
-   - Accuracy: 0.779654
-   - F measure: 0.85126
+   - Precision: 0.812821
+   - Recall: 0.976065
+   - True Positive Rate: 0.976065
+   - True Negative Rate: 0.565662
+   - Accuracy: 0.836109
+   - F measure: 0.886995
 
-   - Areas Hidroticas: 63%
-   - Areas Anidrose e Hipoidroticas: 37%
+   - Areas Hidroticas: 64%
+   - Areas Anidrose e Hipoidroticas: 36%
